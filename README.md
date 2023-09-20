@@ -1,2 +1,2 @@
-# bert_crf
-Implementation of a custom BERT sequence classification model with Conditional Random Fields
+# BERT_CRF
+Implementation of a custom Bidirectional Encoder Representations from Transformers (BERT) sequence classification model with Conditional Random Fields (CRF).
